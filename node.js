@@ -4,9 +4,9 @@
 let fname='Adepoju';
 let lname='Adeyemi';
 myName=(fname +" " +lname);
-console.log(myName);
+console.log('Name:' , myName);
 var height=1.58;
 height= height+'m';
-console.log(height);
+console.log('Height:', height);
 const country='Nigeria';
-console.log(country);
+console.log('Country:', country);
